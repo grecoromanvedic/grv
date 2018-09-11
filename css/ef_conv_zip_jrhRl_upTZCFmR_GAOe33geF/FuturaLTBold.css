@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FuturaLTBold';
+    src: url('fonts/FuturaLTBold.eot');
+    src: url('fonts/FuturaLTBold.eot') format('embedded-opentype'),
+         url('fonts/FuturaLTBold.woff2') format('woff2'),
+         url('fonts/FuturaLTBold.woff') format('woff'),
+         url('fonts/FuturaLTBold.ttf') format('truetype'),
+         url('fonts/FuturaLTBold.svg#FuturaLTBold') format('svg');
+}
